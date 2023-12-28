@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gaming-website/static/css/main.4e8c9a6f.css",
+    "main.js": "/gaming-website/static/js/main.b85161c8.js",
+    "static/media/img-2.jpg": "/gaming-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/gaming-website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/gaming-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/gaming-website/index.html",
+    "main.4e8c9a6f.css.map": "/gaming-website/static/css/main.4e8c9a6f.css.map",
+    "main.b85161c8.js.map": "/gaming-website/static/js/main.b85161c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8c9a6f.css",
+    "static/js/main.b85161c8.js"
+  ]
+}
