@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src="./videos/reactsitetrailer.mp4" autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
+      <h1>Enter A World of Gaming!</h1>
       <p>What are you waiting for?</p>
       <div className="hero-btns">
         <Button
@@ -15,7 +15,7 @@ function HeroSection() {
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          GET STARTED
+          Check it out!
         </Button>
         <Button
           className="btns"
