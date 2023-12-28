@@ -1,0 +1,90 @@
+[
+      {
+        "Id": 1,
+        "Name": "Starfield",
+        "Image": "./images/starfield.jpg",
+        "Developer": "Bethesda",
+        "Publisher": "Microsoft Game Studios",
+        "ReleaseYear": 2023,
+        "Platforms": "PC, Xbox",
+        "Description": "Explore the galaxy in this extraterrestrial Action RPG from the makers of oblivion!",
+        "Genre": "Sci-fi RPG"
+      },
+      {
+        "Id": 2,
+        "Name": "Spider-man2",
+        "Developer": "Insomniac",
+        "ReleaseYear": 2023,
+        "Platforms": "PS5",
+        "Description": "Peter Parker and Miles morales team up against a new assortment of super villains!",
+        "Publisher": "Sony",
+        "Image": "./images/spiderman2.jpg",
+        "Genre": "Superhero Action"
+      },
+      {
+        "Id": 3,
+        "Name": "The Sims 4",
+        "Developer": "Maxis",
+        "ReleaseYear": 2014,
+        "Platforms": "PC,  PS4, Xbox One",
+        "Description": "Live your life and build your dream home in the latest installment of EA's life sim!",
+        "Publisher": "EA",
+        "Image": "./images/thesims4.jpg",
+        "Genre": "Life Simulation"
+      },
+      {
+        "Id": 4,
+        "Name": "King of Fighters XV",
+        "Developer": "SNK",
+        "ReleaseYear": 2022,
+        "Platforms": "PC, Xbox Series X/S, PS5",
+        "Description": "New fighters and old favorites meet up in battle in teh latest entry in this classic fighting game franchise",
+        "Publisher": "Koch Media",
+        "Image": "./images/kofxv.jpg",
+        "Genre": "Fighting"
+      },
+      {
+        "Id": 5,
+        "Name": "Smash Bros Ultimate",
+        "Developer": "Nintendo",
+        "ReleaseYear": 2018,
+        "Platforms": "Ninendo Switch",
+        "Description": "Engage in epic battles with your favorite video game heroes and villains!",
+        "Publisher": "Nintendo",
+        "Image": "./images/supersmashultimate.jpg",
+        "Genre": "Fighting"
+      },
+      {
+        "Id": 6,
+        "Name": "Hotline Miami",
+        "Developer": "Dennation",
+        "ReleaseYear": 2012,
+        "Platforms": "PC, Nintendo Switch, Xbox One, Xbox Series X/S, PS4, PS Vita",
+        "Description": "Put on your mask and murder your way through an blood-soaked 80s alternate Miami",
+        "Publisher": "Devolver Digital",
+        "Image": "./images/hotline miami.jpg",
+        "Genre": "Action"
+      },
+      {
+        "Id": 7,
+        "Name": "Marvel Midnight Suns",
+        "Developer": "Firaxis",
+        "ReleaseYear": 2022,
+        "Platforms": "PC, Nintendo Switch, Xbox Series X/S, PS5",
+        "Description": "Join familiar Marvel heroes like WOlverine and Ghost Rider against a mystical threat",
+        "Publisher": "Devolver Digital",
+        "Image": "./images/marvelmidnightsuns.jpg",
+        "Genre": "Superhero Strategy RPG"
+      },
+      {
+        "Id": 8,
+        "Name": "Doom Eternal",
+        "Developer": "ID Software",
+        "ReleaseYear": 2020,
+        "Platforms": "PC, Nintendo Switch, Xbox One, Xbox Series X/S, PS4, PS5",
+        "Description": "The Doom Slayer returns to battle hell on Earth in the latest installment to the FPS franchise!",
+        "Publisher": "Bethesda",
+        "Image": "./images/doometernal.jpg",
+        "Genre": "FPS"
+      }
+ ]
