@@ -10,13 +10,7 @@ import Carousel from 'react-grid-carousel'
 
 export default class Cards extends Component {
   render () {
-  /*const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 3,
-    slidesToScroll: 1
-  };*/
+
 
   return (
     <div className="cards">
